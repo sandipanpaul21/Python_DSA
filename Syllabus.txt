@@ -1,0 +1,30 @@
+Day 1 — Python Fundamentals + Data Structures
+
+Python Introduction, variables, data types, type casting
+Operators, input/output, conditional statements, loops
+Lists, Tuples, Sets, Dictionaries
+List/Dict/Set comprehensions, generator expressions
+
+Day 2 — Functions & OOP
+
+Functions, *args/**kwargs, lambda, map/filter/reduce, closures, decorators
+Classes, inheritance, dunder methods, @property, static/class methods
+Error handling, context managers, iterators vs generators
+
+Day 3 — NumPy Deep Dive (Data Science / EDA focus)
+
+Array creation, indexing, boolean masking, broadcasting
+Vectorization vs loops
+Using NumPy in exploratory data analysis workflows
+
+Day 4 — Pandas Deep Dive (Data Science / EDA focus)
+
+.loc/.iloc indexing, missing data handling
+GroupBy, merge/join, apply vs vectorized ops
+Basic EDA workflow: summary statistics, data cleaning, prepping data for visualization
+
+Day 5 — Algorithms for Interviews
+
+Big-O / complexity analysis
+Searching, sorting, hashing (two-sum, frequency patterns)
+Recursion, two-pointer/sliding window, stacks/queues
