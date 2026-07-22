@@ -8,8 +8,9 @@ List/Dict/Set comprehensions, generator expressions
 Day 2 — Functions & OOP
 
 Functions, *args/**kwargs, lambda, map/filter/reduce, closures, decorators
-Classes, inheritance, dunder methods, @property, static/class methods
-Error handling, context managers, iterators vs generators
+static/class methods
+Error handling
+File Handling & Modules (file I/O, JSON, CSV, imports)
 
 Day 3 — NumPy Deep Dive (Data Science / EDA focus)
 
