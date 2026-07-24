@@ -1,0 +1,8 @@
+{
+    "course": "Python for Data Science",
+    "days": 5,
+    "topics_covered": [
+        "Fundamentals",
+        "Functions & OOP"
+    ]
+}

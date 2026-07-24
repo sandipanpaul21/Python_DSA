@@ -1,0 +1,3 @@
+Application started
+User logged in
+User performed an action
